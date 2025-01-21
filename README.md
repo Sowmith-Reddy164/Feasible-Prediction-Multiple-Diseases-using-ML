@@ -29,3 +29,4 @@ Preprocessing: Missing value handling, feature scaling, and encoding.
 Model Training: Optimized machine learning models tailored for each disease.
 
 Deployment: Web-based application for real-time predictions.
+![image](https://github.com/user-attachments/assets/9c28648f-4928-4054-a7eb-277293ab4b08)
